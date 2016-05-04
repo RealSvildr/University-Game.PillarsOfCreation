@@ -52,6 +52,7 @@ public class StartGame : ScriptBase
         else if (Input.GetKeyDown("4")) KeyDown(4);
         else if (Input.GetKeyDown("5")) KeyDown(5);
         else if (Input.GetKeyDown("6")) KeyDown(6);
+        else if (Input.GetKeyDown("7")) KeyDown(7);
         else if (Input.GetKeyDown("8")) KeyDown(8);
         else if (Input.GetKeyDown("9")) KeyDown(9);
     }
