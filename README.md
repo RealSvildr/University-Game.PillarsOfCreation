@@ -1,6 +1,5 @@
-# Pillars-of-Creation
-Open source game for artificial intelligence - UNISOCIESC
-
+# Pillars of Creation
+@Unisociesc 2016 - Sistema de Fila, Inteligência Artificial
 
 The main objetive of this project was to give the "intelligence" to the action of the computer, making the computer to choose the best card from its hands trying to balance between attack and defense.
 
